@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# Builds
+dist
+src/generated
+
+# Packages
+node_modules
+
+# Secrets
+.env
+
+# Code Editor
+.vscode/*
+!.vscode/extensions.json
+
+# OS Junk
+.DS_Store
+Thumbs.db
